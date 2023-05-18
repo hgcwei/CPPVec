@@ -9,11 +9,11 @@ Experiments are done in Python, and code partly refer to CPPred http://www.rnabi
 @article {WEI2022CPPVec,
 	author = {Wei, Chao and Ye, Zhiwei and Zhang, Junying and Li, Aimin},
 	title = {CPPVec: an accurate coding potential predictor based on a distributed representation of protein sequence},
-	volum2={24},
+	volume ={24},
 	number ={264},
 	year = {2023},
 	doi = {10.1101/2022.05.31.494108},
-	journal = {bioRxiv}
+	journal = {BMC Genomics}
 }
 ```
 
