@@ -6,7 +6,7 @@ This repository contains the experiments done in the work [CPPVec：an accurate 
 Experiments are done in Python, and code partly refer to CPPred http://www.rnabinding.com/CPPred/, If you find this repository helpful, please cite our work:
 
 ```
-@article {WEI2022CPPVec,
+@article {Wei2023,
 	author = {Wei, Chao and Ye, Zhiwei and Zhang, Junying and Li, Aimin},
 	title = {CPPVec: an accurate coding potential predictor based on a distributed representation of protein sequence},
 	volume ={24},
