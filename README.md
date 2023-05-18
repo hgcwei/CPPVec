@@ -6,7 +6,7 @@ This repository contains the experiments done in the work [CPPVec：an accurate 
 Experiments are done in Python, and code partly refer to CPPred http://www.rnabinding.com/CPPred/, If you find this repository helpful, please cite our work as follows: 
 
 
-Wei, C., Ye, Z., Zhang, J. et al. CPPVec: an accurate coding potential predictor based on a distributed representation of protein sequence. BMC Genomics 24, 264 (2023). https://doi.org/10.1186/s12864-023-09365-7
+[1] Wei, C., Ye, Z., Zhang, J. et al. CPPVec: an accurate coding potential predictor based on a distributed representation of protein sequence. BMC Genomics 24, 264 (2023). https://doi.org/10.1186/s12864-023-09365-7
 
 
 ## Usage
