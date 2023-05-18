@@ -1,21 +1,10 @@
 # CPPVec：an accurate coding potential predictor based on a distributed representation of protein sequence
 
 
-This repository contains the experiments done in the work [CPPVec：an accurate coding potential predictor based on a distributed representation of protein sequence](https://www.biorxiv.org/content/10.1101/2022.05.31.494108v1) by Chao Wei, Zhiwei Ye, Junying Zhang, and Aimin Li.
+This repository contains the experiments done in the work [CPPVec：an accurate coding potential predictor based on a distributed representation of protein sequence](https://doi.org/10.1186/s12864-023-09365-7) by Chao Wei, Zhiwei Ye, Junying Zhang, and Aimin Li.
 
-Experiments are done in Python, and code partly refer to CPPred http://www.rnabinding.com/CPPred/, If you find this repository helpful, please cite our work:
+Experiments are done in Python, and code partly refer to CPPred http://www.rnabinding.com/CPPred/, If you find this repository helpful, please cite our work.
 
-```
-@article {Wei2023,
-	author = {Wei, Chao and Ye, Zhiwei and Zhang, Junying and Li, Aimin},
-	title = {CPPVec: an accurate coding potential predictor based on a distributed representation of protein sequence},
-	volume ={24},
-	number ={264},
-	year = {2023},
-	doi = {10.1101/2022.05.31.494108},
-	journal = {BMC Genomics}
-}
-```
 
 ## Usage
 
